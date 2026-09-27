@@ -12,7 +12,7 @@
 
 ## Did you use AI tools on this assignment?
 
-- [*] Yes
+- [x] Yes
 - [ ] No
 
 ## Tools Used
