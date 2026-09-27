@@ -1,8 +1,5 @@
 # AI Usage Disclosure
 
-> Template — fill in each section below to document how (or whether) AI tools
-> were used in producing this assignment.
-
 ## Assignment
 
 - **Course:** EECS 581
@@ -17,7 +14,6 @@
 
 ## Tools Used
 
-<!-- e.g. ChatGPT, Claude, GitHub Copilot, Gemini, etc. Include version/model if known. -->
 
 | Tool | Version / Model | Date Consulted |
 | ---- | --------------- | -------------- |
@@ -25,9 +21,6 @@
 
 ## What the AI Was Used For
 
-<!-- Describe each way AI was used: brainstorming, generating code, writing
-     tests, debugging, explaining concepts, writing documentation, etc. Be
-     specific about which files or parts were affected. -->
 
 - AI was used for generating the extractor, main, test, and makefile 
 - AI also generated the test cases initially
@@ -85,22 +78,28 @@ Problem description
 
 ## AI-Generated Content and Your Modifications
 
-<!-- Describe what the AI produced and how you reviewed, edited, tested, or
-     rewrote it. Which parts are AI-authored vs. human-authored? -->
 
-- 
+- The vast majority, most all of the code, is AI generated in this project
+- My modifications include all in main.cpp as I fixed some formatting issues in the output
+- Furthermore I made changes to tests.cpp adding test cases 
 
 ## Verification
 
 
 - Reviewed the all of the produced files. Made sure to more carefully review the tests.cpp and Makefile.
 - Edited the test inputs myself to make sure AI did not create biased test cases.
-- 
+- Generally ran the program to make sure it met requirements and to see from user perspective. 
+
+## General Thoughts 
+
+I was generally surprised by how well AI was able to tackle this assignment. The approach that was taken was similar to what I would have done myself.
+One of the main issues I found was with depth of test cases and quality of life in the continuous input loop. To me it seems AI is not able to fine tune
+user interactions as easily as it was for me. 
 
 ## Attestation
 
 I affirm that the above disclosure is accurate and complete, and that I
 understand and can explain all code submitted regardless of how it was produced.
 
-- **Signature:**
-- **Date:**
+- **Signature: Felix Mario Balandran**
+- **Date: 09-27-2026**
