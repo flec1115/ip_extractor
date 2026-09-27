@@ -7,12 +7,12 @@
 
 - **Course:** EECS 581
 - **Assignment:** IPv4 Address Extractor
-- **Name(s):**
-- **Date:**
+- **Name: Felix Balandran**
+- **Date: 09-27-2026**
 
 ## Did you use AI tools on this assignment?
 
-- [ ] Yes
+- [*] Yes
 - [ ] No
 
 ## Tools Used
@@ -29,11 +29,12 @@
      tests, debugging, explaining concepts, writing documentation, etc. Be
      specific about which files or parts were affected. -->
 
--
+- AI was used for generating the extractor, main, test, and makefile 
+- AI also generated the test cases initially
+- Used AI to create the md template to display the way AI was used
 
 ## Prompts Used
 
-<!-- Paste (or summarize) the key prompts you gave the AI tool. -->
 
 ```
 Problem description
